@@ -9,9 +9,6 @@ public class HTML1 {
 
 	public static void main(String[] args) throws IOException {
 
-		System.setProperty("http.proxyHost", "10.83.252.7"); // ALTERAR
-		System.setProperty("http.proxyPort", "80"); // ALTERAR
-
 		Document doc = Jsoup.connect("http://177.200.32.195:9673/sapl/relatorios_administrativos/propositurasAnoAutorTipo/view?ano=2016").get();
 
 		System.out.println(doc.select("td").get(0).text());
