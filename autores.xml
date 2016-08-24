@@ -1,0 +1,898 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
+<autores>
+  <autor>
+    <nome>Benilton Lucena</nome>
+    <proposituraList>
+      <propositura>
+        <natureza>Projeto de Lei Ordinária</natureza>
+        <ano>2016</ano>
+        <quantidade>27</quantidade>
+      </propositura>
+      <propositura>
+        <natureza>Requerimento</natureza>
+        <ano>2016</ano>
+        <quantidade>623</quantidade>
+      </propositura>
+      <propositura>
+        <natureza>Indicação</natureza>
+        <ano>2016</ano>
+        <quantidade>14</quantidade>
+      </propositura>
+      <propositura>
+        <natureza>TOTAL</natureza>
+        <ano>2016</ano>
+        <quantidade>664</quantidade>
+      </propositura>
+    </proposituraList>
+  </autor>
+  <autor>
+    <nome>Bosquinho</nome>
+    <proposituraList>
+      <propositura>
+        <natureza>Projeto de Lei Ordinária</natureza>
+        <ano>2016</ano>
+        <quantidade>7</quantidade>
+      </propositura>
+      <propositura>
+        <natureza>Requerimento</natureza>
+        <ano>2016</ano>
+        <quantidade>199</quantidade>
+      </propositura>
+      <propositura>
+        <natureza>Projeto de Decreto Legislativo</natureza>
+        <ano>2016</ano>
+        <quantidade>4</quantidade>
+      </propositura>
+      <propositura>
+        <natureza>TOTAL</natureza>
+        <ano>2016</ano>
+        <quantidade>210</quantidade>
+      </propositura>
+    </proposituraList>
+  </autor>
+  <autor>
+    <nome>Bruno Farias</nome>
+    <proposituraList>
+      <propositura>
+        <natureza>Projeto de Lei Ordinária</natureza>
+        <ano>2016</ano>
+        <quantidade>9</quantidade>
+      </propositura>
+      <propositura>
+        <natureza>Requerimento</natureza>
+        <ano>2016</ano>
+        <quantidade>55</quantidade>
+      </propositura>
+      <propositura>
+        <natureza>Projeto de Decreto Legislativo</natureza>
+        <ano>2016</ano>
+        <quantidade>3</quantidade>
+      </propositura>
+      <propositura>
+        <natureza>Indicação</natureza>
+        <ano>2016</ano>
+        <quantidade>2</quantidade>
+      </propositura>
+      <propositura>
+        <natureza>TOTAL</natureza>
+        <ano>2016</ano>
+        <quantidade>69</quantidade>
+      </propositura>
+    </proposituraList>
+  </autor>
+  <autor>
+    <nome>Chico do Sindicato</nome>
+    <proposituraList>
+      <propositura>
+        <natureza>Requerimento</natureza>
+        <ano>2016</ano>
+        <quantidade>637</quantidade>
+      </propositura>
+      <propositura>
+        <natureza>TOTAL</natureza>
+        <ano>2016</ano>
+        <quantidade>637</quantidade>
+      </propositura>
+    </proposituraList>
+  </autor>
+  <autor>
+    <nome>Djanilson da Fonseca</nome>
+    <proposituraList>
+      <propositura>
+        <natureza>Projeto de Lei Ordinária</natureza>
+        <ano>2016</ano>
+        <quantidade>10</quantidade>
+      </propositura>
+      <propositura>
+        <natureza>Requerimento</natureza>
+        <ano>2016</ano>
+        <quantidade>157</quantidade>
+      </propositura>
+      <propositura>
+        <natureza>Projeto de Decreto Legislativo</natureza>
+        <ano>2016</ano>
+        <quantidade>1</quantidade>
+      </propositura>
+      <propositura>
+        <natureza>Indicação</natureza>
+        <ano>2016</ano>
+        <quantidade>1</quantidade>
+      </propositura>
+      <propositura>
+        <natureza>TOTAL</natureza>
+        <ano>2016</ano>
+        <quantidade>169</quantidade>
+      </propositura>
+    </proposituraList>
+  </autor>
+  <autor>
+    <nome>Dr. Luís Flávio</nome>
+    <proposituraList>
+      <propositura>
+        <natureza>Projeto de Lei Ordinária</natureza>
+        <ano>2016</ano>
+        <quantidade>11</quantidade>
+      </propositura>
+      <propositura>
+        <natureza>Requerimento</natureza>
+        <ano>2016</ano>
+        <quantidade>41</quantidade>
+      </propositura>
+      <propositura>
+        <natureza>Projeto de Decreto Legislativo</natureza>
+        <ano>2016</ano>
+        <quantidade>1</quantidade>
+      </propositura>
+      <propositura>
+        <natureza>TOTAL</natureza>
+        <ano>2016</ano>
+        <quantidade>53</quantidade>
+      </propositura>
+    </proposituraList>
+  </autor>
+  <autor>
+    <nome>Durval Ferreira</nome>
+    <proposituraList>
+      <propositura>
+        <natureza>Projeto de Lei Ordinária</natureza>
+        <ano>2016</ano>
+        <quantidade>12</quantidade>
+      </propositura>
+      <propositura>
+        <natureza>Requerimento</natureza>
+        <ano>2016</ano>
+        <quantidade>205</quantidade>
+      </propositura>
+      <propositura>
+        <natureza>Projeto de Lei Complementar</natureza>
+        <ano>2016</ano>
+        <quantidade>2</quantidade>
+      </propositura>
+      <propositura>
+        <natureza>Projeto de Decreto Legislativo</natureza>
+        <ano>2016</ano>
+        <quantidade>18</quantidade>
+      </propositura>
+      <propositura>
+        <natureza>TOTAL</natureza>
+        <ano>2016</ano>
+        <quantidade>237</quantidade>
+      </propositura>
+    </proposituraList>
+  </autor>
+  <autor>
+    <nome>Edson Cruz</nome>
+    <proposituraList>
+      <propositura>
+        <natureza>Projeto de Lei Ordinária</natureza>
+        <ano>2016</ano>
+        <quantidade>2</quantidade>
+      </propositura>
+      <propositura>
+        <natureza>Requerimento</natureza>
+        <ano>2016</ano>
+        <quantidade>13</quantidade>
+      </propositura>
+      <propositura>
+        <natureza>Projeto de Decreto Legislativo</natureza>
+        <ano>2016</ano>
+        <quantidade>4</quantidade>
+      </propositura>
+      <propositura>
+        <natureza>TOTAL</natureza>
+        <ano>2016</ano>
+        <quantidade>19</quantidade>
+      </propositura>
+    </proposituraList>
+  </autor>
+  <autor>
+    <nome>Eliza Virgínia</nome>
+    <proposituraList>
+      <propositura>
+        <natureza>Projeto de Lei Ordinária</natureza>
+        <ano>2016</ano>
+        <quantidade>8</quantidade>
+      </propositura>
+      <propositura>
+        <natureza>Projeto de Resolução</natureza>
+        <ano>2016</ano>
+        <quantidade>2</quantidade>
+      </propositura>
+      <propositura>
+        <natureza>Requerimento</natureza>
+        <ano>2016</ano>
+        <quantidade>48</quantidade>
+      </propositura>
+      <propositura>
+        <natureza>Projeto de Decreto Legislativo</natureza>
+        <ano>2016</ano>
+        <quantidade>13</quantidade>
+      </propositura>
+      <propositura>
+        <natureza>Indicação</natureza>
+        <ano>2016</ano>
+        <quantidade>3</quantidade>
+      </propositura>
+      <propositura>
+        <natureza>TOTAL</natureza>
+        <ano>2016</ano>
+        <quantidade>74</quantidade>
+      </propositura>
+    </proposituraList>
+  </autor>
+  <autor>
+    <nome>Executivo - Prefeito Luciano Cartaxo</nome>
+    <proposituraList>
+      <propositura>
+        <natureza>Projeto de Lei Ordinária</natureza>
+        <ano>2016</ano>
+        <quantidade>14</quantidade>
+      </propositura>
+      <propositura>
+        <natureza>Mensagem Executivo Municipal</natureza>
+        <ano>2016</ano>
+        <quantidade>2</quantidade>
+      </propositura>
+      <propositura>
+        <natureza>Projeto de Lei Complementar</natureza>
+        <ano>2016</ano>
+        <quantidade>5</quantidade>
+      </propositura>
+      <propositura>
+        <natureza>Medida Provisória</natureza>
+        <ano>2016</ano>
+        <quantidade>1</quantidade>
+      </propositura>
+      <propositura>
+        <natureza>Veto</natureza>
+        <ano>2016</ano>
+        <quantidade>28</quantidade>
+      </propositura>
+      <propositura>
+        <natureza>TOTAL</natureza>
+        <ano>2016</ano>
+        <quantidade>50</quantidade>
+      </propositura>
+    </proposituraList>
+  </autor>
+  <autor>
+    <nome>Felipe Leitão</nome>
+    <proposituraList>
+      <propositura>
+        <natureza>Projeto de Lei Ordinária</natureza>
+        <ano>2016</ano>
+        <quantidade>1</quantidade>
+      </propositura>
+      <propositura>
+        <natureza>Requerimento</natureza>
+        <ano>2016</ano>
+        <quantidade>22</quantidade>
+      </propositura>
+      <propositura>
+        <natureza>Projeto de Decreto Legislativo</natureza>
+        <ano>2016</ano>
+        <quantidade>1</quantidade>
+      </propositura>
+      <propositura>
+        <natureza>Indicação</natureza>
+        <ano>2016</ano>
+        <quantidade>1</quantidade>
+      </propositura>
+      <propositura>
+        <natureza>TOTAL</natureza>
+        <ano>2016</ano>
+        <quantidade>25</quantidade>
+      </propositura>
+    </proposituraList>
+  </autor>
+  <autor>
+    <nome>Fernando Milanez</nome>
+    <proposituraList>
+      <propositura>
+        <natureza>Requerimento</natureza>
+        <ano>2016</ano>
+        <quantidade>3</quantidade>
+      </propositura>
+      <propositura>
+        <natureza>TOTAL</natureza>
+        <ano>2016</ano>
+        <quantidade>3</quantidade>
+      </propositura>
+    </proposituraList>
+  </autor>
+  <autor>
+    <nome>Flávio Eduardo Maroja (Fuba)</nome>
+    <proposituraList>
+      <propositura>
+        <natureza>Projeto de Lei Ordinária</natureza>
+        <ano>2016</ano>
+        <quantidade>13</quantidade>
+      </propositura>
+      <propositura>
+        <natureza>Requerimento</natureza>
+        <ano>2016</ano>
+        <quantidade>28</quantidade>
+      </propositura>
+      <propositura>
+        <natureza>Projeto de Decreto Legislativo</natureza>
+        <ano>2016</ano>
+        <quantidade>1</quantidade>
+      </propositura>
+      <propositura>
+        <natureza>Indicação</natureza>
+        <ano>2016</ano>
+        <quantidade>1</quantidade>
+      </propositura>
+      <propositura>
+        <natureza>TOTAL</natureza>
+        <ano>2016</ano>
+        <quantidade>43</quantidade>
+      </propositura>
+    </proposituraList>
+  </autor>
+  <autor>
+    <nome>Helton Renê</nome>
+    <proposituraList>
+      <propositura>
+        <natureza>Projeto de Lei Ordinária</natureza>
+        <ano>2016</ano>
+        <quantidade>6</quantidade>
+      </propositura>
+      <propositura>
+        <natureza>Requerimento</natureza>
+        <ano>2016</ano>
+        <quantidade>96</quantidade>
+      </propositura>
+      <propositura>
+        <natureza>Projeto de Decreto Legislativo</natureza>
+        <ano>2016</ano>
+        <quantidade>1</quantidade>
+      </propositura>
+      <propositura>
+        <natureza>TOTAL</natureza>
+        <ano>2016</ano>
+        <quantidade>103</quantidade>
+      </propositura>
+    </proposituraList>
+  </autor>
+  <autor>
+    <nome>João Almeida</nome>
+    <proposituraList>
+      <propositura>
+        <natureza>Projeto de Lei Ordinária</natureza>
+        <ano>2016</ano>
+        <quantidade>3</quantidade>
+      </propositura>
+      <propositura>
+        <natureza>Requerimento</natureza>
+        <ano>2016</ano>
+        <quantidade>20</quantidade>
+      </propositura>
+      <propositura>
+        <natureza>Projeto de Decreto Legislativo</natureza>
+        <ano>2016</ano>
+        <quantidade>3</quantidade>
+      </propositura>
+      <propositura>
+        <natureza>Indicação</natureza>
+        <ano>2016</ano>
+        <quantidade>1</quantidade>
+      </propositura>
+      <propositura>
+        <natureza>TOTAL</natureza>
+        <ano>2016</ano>
+        <quantidade>27</quantidade>
+      </propositura>
+    </proposituraList>
+  </autor>
+  <autor>
+    <nome>João dos Santos</nome>
+    <proposituraList>
+      <propositura>
+        <natureza>Projeto de Lei Ordinária</natureza>
+        <ano>2016</ano>
+        <quantidade>1</quantidade>
+      </propositura>
+      <propositura>
+        <natureza>Requerimento</natureza>
+        <ano>2016</ano>
+        <quantidade>37</quantidade>
+      </propositura>
+      <propositura>
+        <natureza>TOTAL</natureza>
+        <ano>2016</ano>
+        <quantidade>38</quantidade>
+      </propositura>
+    </proposituraList>
+  </autor>
+  <autor>
+    <nome>Lucas de Brito Pereira</nome>
+    <proposituraList>
+      <propositura>
+        <natureza>Projeto de Lei Ordinária</natureza>
+        <ano>2016</ano>
+        <quantidade>33</quantidade>
+      </propositura>
+      <propositura>
+        <natureza>Projeto de Resolução</natureza>
+        <ano>2016</ano>
+        <quantidade>1</quantidade>
+      </propositura>
+      <propositura>
+        <natureza>Requerimento</natureza>
+        <ano>2016</ano>
+        <quantidade>116</quantidade>
+      </propositura>
+      <propositura>
+        <natureza>Projeto de Decreto Legislativo</natureza>
+        <ano>2016</ano>
+        <quantidade>3</quantidade>
+      </propositura>
+      <propositura>
+        <natureza>Indicação</natureza>
+        <ano>2016</ano>
+        <quantidade>3</quantidade>
+      </propositura>
+      <propositura>
+        <natureza>TOTAL</natureza>
+        <ano>2016</ano>
+        <quantidade>156</quantidade>
+      </propositura>
+    </proposituraList>
+  </autor>
+  <autor>
+    <nome>Marco Antonio Cartaxo</nome>
+    <proposituraList>
+      <propositura>
+        <natureza>Projeto de Lei Ordinária</natureza>
+        <ano>2016</ano>
+        <quantidade>3</quantidade>
+      </propositura>
+      <propositura>
+        <natureza>Projeto de Resolução</natureza>
+        <ano>2016</ano>
+        <quantidade>1</quantidade>
+      </propositura>
+      <propositura>
+        <natureza>Requerimento</natureza>
+        <ano>2016</ano>
+        <quantidade>90</quantidade>
+      </propositura>
+      <propositura>
+        <natureza>Projeto de Decreto Legislativo</natureza>
+        <ano>2016</ano>
+        <quantidade>4</quantidade>
+      </propositura>
+      <propositura>
+        <natureza>Indicação</natureza>
+        <ano>2016</ano>
+        <quantidade>5</quantidade>
+      </propositura>
+      <propositura>
+        <natureza>TOTAL</natureza>
+        <ano>2016</ano>
+        <quantidade>103</quantidade>
+      </propositura>
+    </proposituraList>
+  </autor>
+  <autor>
+    <nome>Marcos Vinícius</nome>
+    <proposituraList>
+      <propositura>
+        <natureza>Projeto de Lei Ordinária</natureza>
+        <ano>2016</ano>
+        <quantidade>6</quantidade>
+      </propositura>
+      <propositura>
+        <natureza>Requerimento</natureza>
+        <ano>2016</ano>
+        <quantidade>6</quantidade>
+      </propositura>
+      <propositura>
+        <natureza>Indicação</natureza>
+        <ano>2016</ano>
+        <quantidade>1</quantidade>
+      </propositura>
+      <propositura>
+        <natureza>TOTAL</natureza>
+        <ano>2016</ano>
+        <quantidade>13</quantidade>
+      </propositura>
+    </proposituraList>
+  </autor>
+  <autor>
+    <nome>Marmuthe Cavalcanti</nome>
+    <proposituraList>
+      <propositura>
+        <natureza>Projeto de Lei Ordinária</natureza>
+        <ano>2016</ano>
+        <quantidade>40</quantidade>
+      </propositura>
+      <propositura>
+        <natureza>Projeto de Resolução</natureza>
+        <ano>2016</ano>
+        <quantidade>3</quantidade>
+      </propositura>
+      <propositura>
+        <natureza>Requerimento</natureza>
+        <ano>2016</ano>
+        <quantidade>124</quantidade>
+      </propositura>
+      <propositura>
+        <natureza>Projeto de Lei Complementar</natureza>
+        <ano>2016</ano>
+        <quantidade>1</quantidade>
+      </propositura>
+      <propositura>
+        <natureza>Projeto de Decreto Legislativo</natureza>
+        <ano>2016</ano>
+        <quantidade>6</quantidade>
+      </propositura>
+      <propositura>
+        <natureza>Indicação</natureza>
+        <ano>2016</ano>
+        <quantidade>17</quantidade>
+      </propositura>
+      <propositura>
+        <natureza>Projeto de Emenda à Lei Orgânica</natureza>
+        <ano>2016</ano>
+        <quantidade>1</quantidade>
+      </propositura>
+      <propositura>
+        <natureza>TOTAL</natureza>
+        <ano>2016</ano>
+        <quantidade>192</quantidade>
+      </propositura>
+    </proposituraList>
+  </autor>
+  <autor>
+    <nome>Mesa Diretora</nome>
+    <proposituraList>
+      <propositura>
+        <natureza>Projeto de Lei Ordinária</natureza>
+        <ano>2016</ano>
+        <quantidade>1</quantidade>
+      </propositura>
+      <propositura>
+        <natureza>Projeto de Resolução</natureza>
+        <ano>2016</ano>
+        <quantidade>1</quantidade>
+      </propositura>
+      <propositura>
+        <natureza>TOTAL</natureza>
+        <ano>2016</ano>
+        <quantidade>2</quantidade>
+      </propositura>
+    </proposituraList>
+  </autor>
+  <autor>
+    <nome>Pedro Coutinho</nome>
+    <proposituraList>
+      <propositura>
+        <natureza>Projeto de Lei Ordinária</natureza>
+        <ano>2016</ano>
+        <quantidade>5</quantidade>
+      </propositura>
+      <propositura>
+        <natureza>Requerimento</natureza>
+        <ano>2016</ano>
+        <quantidade>24</quantidade>
+      </propositura>
+      <propositura>
+        <natureza>Projeto de Decreto Legislativo</natureza>
+        <ano>2016</ano>
+        <quantidade>1</quantidade>
+      </propositura>
+      <propositura>
+        <natureza>TOTAL</natureza>
+        <ano>2016</ano>
+        <quantidade>30</quantidade>
+      </propositura>
+    </proposituraList>
+  </autor>
+  <autor>
+    <nome>Professor Gabriel</nome>
+    <proposituraList>
+      <propositura>
+        <natureza>Projeto de Lei Ordinária</natureza>
+        <ano>2016</ano>
+        <quantidade>6</quantidade>
+      </propositura>
+      <propositura>
+        <natureza>Requerimento</natureza>
+        <ano>2016</ano>
+        <quantidade>67</quantidade>
+      </propositura>
+      <propositura>
+        <natureza>TOTAL</natureza>
+        <ano>2016</ano>
+        <quantidade>73</quantidade>
+      </propositura>
+    </proposituraList>
+  </autor>
+  <autor>
+    <nome>Raissa Lacerda</nome>
+    <proposituraList>
+      <propositura>
+        <natureza>Projeto de Lei Ordinária</natureza>
+        <ano>2016</ano>
+        <quantidade>2</quantidade>
+      </propositura>
+      <propositura>
+        <natureza>Requerimento</natureza>
+        <ano>2016</ano>
+        <quantidade>424</quantidade>
+      </propositura>
+      <propositura>
+        <natureza>Projeto de Lei Complementar</natureza>
+        <ano>2016</ano>
+        <quantidade>1</quantidade>
+      </propositura>
+      <propositura>
+        <natureza>Projeto de Decreto Legislativo</natureza>
+        <ano>2016</ano>
+        <quantidade>12</quantidade>
+      </propositura>
+      <propositura>
+        <natureza>TOTAL</natureza>
+        <ano>2016</ano>
+        <quantidade>439</quantidade>
+      </propositura>
+    </proposituraList>
+  </autor>
+  <autor>
+    <nome>Raoni Mendes</nome>
+    <proposituraList>
+      <propositura>
+        <natureza>Projeto de Lei Ordinária</natureza>
+        <ano>2016</ano>
+        <quantidade>9</quantidade>
+      </propositura>
+      <propositura>
+        <natureza>Projeto de Resolução</natureza>
+        <ano>2016</ano>
+        <quantidade>1</quantidade>
+      </propositura>
+      <propositura>
+        <natureza>Requerimento</natureza>
+        <ano>2016</ano>
+        <quantidade>165</quantidade>
+      </propositura>
+      <propositura>
+        <natureza>Projeto de Decreto Legislativo</natureza>
+        <ano>2016</ano>
+        <quantidade>5</quantidade>
+      </propositura>
+      <propositura>
+        <natureza>Indicação</natureza>
+        <ano>2016</ano>
+        <quantidade>2</quantidade>
+      </propositura>
+      <propositura>
+        <natureza>TOTAL</natureza>
+        <ano>2016</ano>
+        <quantidade>182</quantidade>
+      </propositura>
+    </proposituraList>
+  </autor>
+  <autor>
+    <nome>Renato Martins</nome>
+    <proposituraList>
+      <propositura>
+        <natureza>Projeto de Lei Ordinária</natureza>
+        <ano>2016</ano>
+        <quantidade>7</quantidade>
+      </propositura>
+      <propositura>
+        <natureza>Requerimento</natureza>
+        <ano>2016</ano>
+        <quantidade>105</quantidade>
+      </propositura>
+      <propositura>
+        <natureza>Projeto de Decreto Legislativo</natureza>
+        <ano>2016</ano>
+        <quantidade>5</quantidade>
+      </propositura>
+      <propositura>
+        <natureza>Indicação</natureza>
+        <ano>2016</ano>
+        <quantidade>2</quantidade>
+      </propositura>
+      <propositura>
+        <natureza>TOTAL</natureza>
+        <ano>2016</ano>
+        <quantidade>119</quantidade>
+      </propositura>
+    </proposituraList>
+  </autor>
+  <autor>
+    <nome>Sandra Marrocos</nome>
+    <proposituraList>
+      <propositura>
+        <natureza>Projeto de Lei Ordinária</natureza>
+        <ano>2016</ano>
+        <quantidade>1</quantidade>
+      </propositura>
+      <propositura>
+        <natureza>Requerimento</natureza>
+        <ano>2016</ano>
+        <quantidade>5</quantidade>
+      </propositura>
+      <propositura>
+        <natureza>TOTAL</natureza>
+        <ano>2016</ano>
+        <quantidade>6</quantidade>
+      </propositura>
+    </proposituraList>
+  </autor>
+  <autor>
+    <nome>Santino Feliciano</nome>
+    <proposituraList>
+      <propositura>
+        <natureza>Requerimento</natureza>
+        <ano>2016</ano>
+        <quantidade>43</quantidade>
+      </propositura>
+      <propositura>
+        <natureza>Projeto de Decreto Legislativo</natureza>
+        <ano>2016</ano>
+        <quantidade>1</quantidade>
+      </propositura>
+      <propositura>
+        <natureza>TOTAL</natureza>
+        <ano>2016</ano>
+        <quantidade>44</quantidade>
+      </propositura>
+    </proposituraList>
+  </autor>
+  <autor>
+    <nome>Sérgio da SAC</nome>
+    <proposituraList>
+      <propositura>
+        <natureza>Projeto de Lei Ordinária</natureza>
+        <ano>2016</ano>
+        <quantidade>8</quantidade>
+      </propositura>
+      <propositura>
+        <natureza>Requerimento</natureza>
+        <ano>2016</ano>
+        <quantidade>294</quantidade>
+      </propositura>
+      <propositura>
+        <natureza>Projeto de Decreto Legislativo</natureza>
+        <ano>2016</ano>
+        <quantidade>5</quantidade>
+      </propositura>
+      <propositura>
+        <natureza>TOTAL</natureza>
+        <ano>2016</ano>
+        <quantidade>307</quantidade>
+      </propositura>
+    </proposituraList>
+  </autor>
+  <autor>
+    <nome>Ubiratan Pereira - Bira</nome>
+    <proposituraList>
+      <propositura>
+        <natureza>Projeto de Lei Ordinária</natureza>
+        <ano>2016</ano>
+        <quantidade>9</quantidade>
+      </propositura>
+      <propositura>
+        <natureza>Requerimento</natureza>
+        <ano>2016</ano>
+        <quantidade>99</quantidade>
+      </propositura>
+      <propositura>
+        <natureza>Projeto de Lei Complementar</natureza>
+        <ano>2016</ano>
+        <quantidade>1</quantidade>
+      </propositura>
+      <propositura>
+        <natureza>Projeto de Decreto Legislativo</natureza>
+        <ano>2016</ano>
+        <quantidade>4</quantidade>
+      </propositura>
+      <propositura>
+        <natureza>Indicação</natureza>
+        <ano>2016</ano>
+        <quantidade>1</quantidade>
+      </propositura>
+      <propositura>
+        <natureza>TOTAL</natureza>
+        <ano>2016</ano>
+        <quantidade>114</quantidade>
+      </propositura>
+    </proposituraList>
+  </autor>
+  <autor>
+    <nome>Valdir Dowsley - Dinho</nome>
+    <proposituraList>
+      <propositura>
+        <natureza>Projeto de Lei Ordinária</natureza>
+        <ano>2016</ano>
+        <quantidade>7</quantidade>
+      </propositura>
+      <propositura>
+        <natureza>Requerimento</natureza>
+        <ano>2016</ano>
+        <quantidade>67</quantidade>
+      </propositura>
+      <propositura>
+        <natureza>Projeto de Decreto Legislativo</natureza>
+        <ano>2016</ano>
+        <quantidade>7</quantidade>
+      </propositura>
+      <propositura>
+        <natureza>Indicação</natureza>
+        <ano>2016</ano>
+        <quantidade>3</quantidade>
+      </propositura>
+      <propositura>
+        <natureza>TOTAL</natureza>
+        <ano>2016</ano>
+        <quantidade>84</quantidade>
+      </propositura>
+    </proposituraList>
+  </autor>
+  <autor>
+    <nome>Zezinho Botafogo</nome>
+    <proposituraList>
+      <propositura>
+        <natureza>Projeto de Lei Ordinária</natureza>
+        <ano>2016</ano>
+        <quantidade>16</quantidade>
+      </propositura>
+      <propositura>
+        <natureza>Projeto de Resolução</natureza>
+        <ano>2016</ano>
+        <quantidade>1</quantidade>
+      </propositura>
+      <propositura>
+        <natureza>Requerimento</natureza>
+        <ano>2016</ano>
+        <quantidade>177</quantidade>
+      </propositura>
+      <propositura>
+        <natureza>Projeto de Decreto Legislativo</natureza>
+        <ano>2016</ano>
+        <quantidade>6</quantidade>
+      </propositura>
+      <propositura>
+        <natureza>Indicação</natureza>
+        <ano>2016</ano>
+        <quantidade>3</quantidade>
+      </propositura>
+      <propositura>
+        <natureza>Projeto de Emenda à Lei Orgânica</natureza>
+        <ano>2016</ano>
+        <quantidade>1</quantidade>
+      </propositura>
+      <propositura>
+        <natureza>TOTAL</natureza>
+        <ano>2016</ano>
+        <quantidade>204</quantidade>
+      </propositura>
+    </proposituraList>
+  </autor>
+</autores>

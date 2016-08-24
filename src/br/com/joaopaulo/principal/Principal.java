@@ -1,5 +1,8 @@
 package br.com.joaopaulo.principal;
 
+import java.io.File;
+import java.io.IOException;
+import java.io.PrintWriter;
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.HashMap;
@@ -9,6 +12,7 @@ import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
 
 import com.thoughtworks.xstream.XStream;
+import com.thoughtworks.xstream.io.xml.DomDriver;
 
 import br.com.joaopaulo.entidade.Autor;
 import br.com.joaopaulo.entidade.Propositura;
@@ -26,15 +30,26 @@ public class Principal {
 
 		List<Autor> autorList = montarPropositurasPorAutor();
 		
-		XStream xstream = new XStream();
+		XStream xstream = new XStream(new DomDriver("UTF-8"));
 		xstream.alias("autores", List.class);
 		xstream.alias("autor", Autor.class);
 		xstream.alias("propositura", Propositura.class);
-        String representacao= xstream.toXML(autorList);
-        
-        System.out.println(representacao);
-
+        String documento = xstream.toXML(autorList);
+        salvarArquivo(documento, "autores.xml");
 	}
+	
+	private static void salvarArquivo(String documento, String file) {
+		try {
+			File path = new File(file);
+			PrintWriter writer = new PrintWriter(path);
+			writer.println("<?xml version=\"1.0\" encoding=\"ISO-8859-1\" standalone=\"no\"?>");           
+			writer.println(documento);
+			writer.flush();
+			writer.close();
+		} catch (IOException e) {
+			e.printStackTrace();
+		}
+	}	
 
 	private static List<Autor> montarPropositurasPorAutor() throws Exception {
 		Document doc = Jsoup.connect(URL_PROPOSITURAS_2016).get();
@@ -57,7 +72,7 @@ public class Principal {
 						ehAutor = false;
 					} else {
 						Propositura propositura = new Propositura();
-						propositura.setNatureza(linha.replaceAll("[0-9]", ""));
+						propositura.setNatureza(linha.replaceAll("[0-9]", "").trim());
 						propositura.setAno(anoPropositura);
 						propositura.setQuantidade(Integer.parseInt(linha.replaceAll("[^0-9]", "")));
 						autor.getProposituraList().add(propositura);
