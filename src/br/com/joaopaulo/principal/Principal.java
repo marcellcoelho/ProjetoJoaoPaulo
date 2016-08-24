@@ -8,6 +8,8 @@ import java.util.List;
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
 
+import com.thoughtworks.xstream.XStream;
+
 import br.com.joaopaulo.entidade.Autor;
 import br.com.joaopaulo.entidade.Propositura;
 
@@ -24,7 +26,13 @@ public class Principal {
 
 		List<Autor> autorList = montarPropositurasPorAutor();
 		
-		System.out.println(autorList); //LISTA DE PROPOSITURAS POR AUTOR
+		XStream xstream = new XStream();
+		xstream.alias("autores", List.class);
+		xstream.alias("autor", Autor.class);
+		xstream.alias("propositura", Propositura.class);
+        String representacao= xstream.toXML(autorList);
+        
+        System.out.println(representacao);
 
 	}
 
